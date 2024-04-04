@@ -24,18 +24,18 @@ Our team spearheaded designing and implementation a comprehensive relational dat
 Joe explanation and add
 
 ## Data Dictionary:
-<img width="660" alt="Screenshot 2024-04-04 at 3 17 42 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/ddbd3e9c-6b8c-4eff-ba60-e4186a80f75c">
-<img width="659" alt="Screenshot 2024-04-04 at 3 18 40 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/86764c21-3fcb-4586-a23c-5055d7a0d036">
-<img width="659" alt="Screenshot 2024-04-04 at 3 18 52 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/574cff80-4c85-4867-837a-4be543883ef6">
-<img width="633" alt="Screenshot 2024-04-04 at 3 19 11 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/c5ea0cb2-e4ef-4fd6-b79d-72ac76f45330">
-<img width="636" alt="Screenshot 2024-04-04 at 3 19 36 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/c0f088dd-6367-45e2-b436-d6209090e2ec">
-<img width="638" alt="Screenshot 2024-04-04 at 3 19 57 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/6ea41220-0432-4beb-a7be-eba65793cc5f">
-<img width="638" alt="Screenshot 2024-04-04 at 3 20 15 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/731bf290-6545-476e-9a98-b2307896c925">
-<img width="638" alt="Screenshot 2024-04-04 at 3 20 30 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/07714618-573f-418f-9c99-67eb4cfd6433">
-<img width="638" alt="Screenshot 2024-04-04 at 3 20 48 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/6ed977a2-e706-4c72-86d9-1e56b756f157">
-<img width="638" alt="Screenshot 2024-04-04 at 3 21 04 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/e452e101-43f5-4294-bb4a-be7e1512ff51">
-<img width="638" alt="Screenshot 2024-04-04 at 3 21 15 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/f3b1885f-8572-488a-9622-c53322f1f891">
-<img width="638" alt="Screenshot 2024-04-04 at 3 21 31 AM" src="https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/150203797/2bd36cf7-af27-4b30-b7eb-82a941e313a2">
+<img width="659" alt="Screenshot 2024-04-04 at 4 27 33 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/b944c235-6789-4749-81b6-efaa3a68de4a">
+<img width="659" alt="Screenshot 2024-04-04 at 4 27 51 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/f7eff88b-b9c6-4419-ad09-1249d82e5d68">
+<img width="659" alt="Screenshot 2024-04-04 at 4 28 39 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/d1066b32-7ab9-4c9e-a1cd-e6f60cd2eea7">
+<img width="659" alt="Screenshot 2024-04-04 at 4 28 58 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/070d23f1-19d2-4010-a8e6-5ee8a5bf569e">
+<img width="659" alt="Screenshot 2024-04-04 at 4 29 12 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/99215e37-3aa5-464b-a7da-5838de5a7b59">
+<img width="647" alt="Screenshot 2024-04-04 at 4 29 30 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/039f4ef7-971f-44cb-b5d8-f440f9dbfe24">
+<img width="647" alt="Screenshot 2024-04-04 at 4 29 42 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/457b84b0-41b7-4e8b-9641-65d66d3d2ca2">
+<img width="647" alt="Screenshot 2024-04-04 at 4 29 58 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/51070885-e434-4a44-aeb4-3f4b753dda33">
+<img width="647" alt="Screenshot 2024-04-04 at 4 30 12 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/1c19ac80-ad90-4add-b880-29f068e42f91">
+<img width="647" alt="Screenshot 2024-04-04 at 4 30 28 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/6e4e6d2f-1757-471d-a2d7-956a72a15460">
+<img width="647" alt="Screenshot 2024-04-04 at 4 30 39 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/3c026b79-6edf-44c5-8bf4-d2dc7fb5999e">
+<img width="647" alt="Screenshot 2024-04-04 at 4 30 53 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/2468b299-fa2b-4e7a-a054-4c99c0cf2356">
 
 
 ## Queries:
