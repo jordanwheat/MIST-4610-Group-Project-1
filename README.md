@@ -79,8 +79,19 @@ Query 4 displays item ID, item name, and the quantity as well as expiration date
 This query aids in managing inventory by returning information on quantity and expiration date. In this example 30 was used as a threshold so if the inventory count is below this for a certain item managers know that it's time to order more. This prevents inventory shortages and helps with keeping inventory stocked. Expiration date is very important to keep up with as well because items should not be used after their expiration date as it could lead to item malfunction which is a form of malpractice. By keeping up with expiration dates, items can be used before they expire or disposed of when they become expired. 
 
 **Query 5:**
+Query 5 displays name, city, state, and operating hours of the healthcare center. This information is taken from the HealthcareCenter table. The where clause then returns only the values of healthcare centers that are open for 24 hours.
+
+<img width="998" alt="Screenshot 2024-04-04 at 4 16 28 PM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/44d6140d-72f9-42ac-a879-a1c8cc61c016">
+
+
+Using this query, the healthcare company will be able to see where their 24 hour centers are located. This can help them understand where their client base is already being served and where they may need to start thinking about opening up a new 24 hour facility to better serve the community and increase their number of patients. 
 
 **Query 6:**
+This query displays the patient's first and last name as "Patient," the first and last name of the medical employee who prescribed the medication as "Prescribed By." and the name of the medication prescribed. It joins the Patients, MedicalEmployees, and Prescriptions table by PatientID and StaffID. It then filters the results by the patient names in alphabetical order.
+
+<img width="998" alt="Screenshot 2024-04-04 at 4 37 51 PM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/de8f9f62-8add-4090-a55a-e52da7f00324">
+
+Using this query, the healthcare center will be able to track the medications given to their patients as well as the medical providers who prescribed the medication. The healthcare can also quickly see if a patient has been prescribed multiple medications as they view the result and find the patient name. This can help them keep track of a patient's prescription history.
 
 **Query 7:**
 
