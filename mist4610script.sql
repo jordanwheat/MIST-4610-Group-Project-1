@@ -23,7 +23,7 @@ CREATE TABLE Patients (
     ItemID INT PRIMARY KEY,
     ItemName VARCHAR(100),
     Quantity INT,
-    ExpirationDate DATE);
+    ExpirationDate VARCHAR(10));
     
     CREATE TABLE Departments (
     DepartmentID INT PRIMARY KEY,
@@ -33,8 +33,8 @@ CREATE TABLE Patients (
     HealthcareCenterID INT PRIMARY KEY,
     HealthcareCenterName VARCHAR(100),
     OperatingHours VARCHAR(100),
-    City VARCHAR(45),
-    State VARCHAR(45));
+    City VARCHAR(50),
+    State VARCHAR(25));
     
     CREATE TABLE InsuranceProviders (
     ProviderID INT PRIMARY KEY,
