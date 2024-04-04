@@ -17,11 +17,9 @@ Minjun Kim
 
 ## Problem Description:
 
-Our team spearheaded designing and implementation a comprehensive relational database tailored for a prominent healthcare clinic company. At the heart of our model lies the healthcare center entity, serving as the nexus from which various departments extend, each housing imperative entities ranging from inventory management to billing records, appointment scheduling, and patient information. With attention to detail, we crafted a data model that encapsulates our sample healthcare clinic needs. We populated the database with potential data, ensuring its readiness to support operational functionalities. Moreover, we executed various simple and complex queries utilizing our data, showcasing the database's adaptability to interested parties. Our efforts culminated in a sophisticated database solution poised to streamline operations and enhance decision-making within the healthcare clinic world. 
 
 ## Data Model:
 
-Joe explanation and add
 
 ## Data Dictionary:
 <img width="659" alt="Screenshot 2024-04-04 at 4 27 33 AM" src="https://github.com/jordanwheat/MIST-4610-Group-Project-1/assets/150203797/b944c235-6789-4749-81b6-efaa3a68de4a">
@@ -54,4 +52,8 @@ This SQL query retrieves information about patients including their first name, 
 
 ![Query 2](https://github.com/Mattyyzz/Healthcare-Clinic--Group-6/assets/145718034/7979bae9-1491-4c4f-98f3-308a7c74c846)
 
+
 Query 2 provides healthcare clinic managers with insight into the length of stay for patients across different departments or clinics. By examining the patients with the longest stays, particularly those exceeding 333 days, managers can identify areas where patients may require extended care or where operational inefficiencies may be impacting patient throughput. Organizing the results in ascending order by length of stay allows managers to easily pinpoint clinics or departments with longer-than-average patient stays, enabling targeted interventions to improve patient flow and optimize resource allocation for better patient care delivery. This analysis empowers managers to make informed decisions to enhance operational efficiency and patient satisfaction within their healthcare facilities.
+
+
+## Database Information:
