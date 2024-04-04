@@ -57,3 +57,5 @@ Query 2 provides healthcare clinic managers with insight into the length of stay
 
 
 ## Database Information:
+Name of Database: al_Group_21482_G6
+All stored procedures can be called using the format TP_Qx (where x is to be replaced by the query number).
