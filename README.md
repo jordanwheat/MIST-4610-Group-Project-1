@@ -45,7 +45,7 @@ Conversation with our hypothetical client using ChatGPT:
 
 ## Queries:
 
-*Query 1:*
+**Query 1:**
 
 Query 1 retrieves information about patients, their medical records including diagnosis and treatment, billing details, and completion dates for payments. It filters the results to include only those where the total billing amount is greater than 4900 and the treatment involves radiation therapy, and then sorts the results by the total billing amount in descending order.
 
@@ -53,7 +53,7 @@ Query 1 retrieves information about patients, their medical records including di
 
 Query 1 allows healthcare clinic managers to assess the demand for a specific treatment, in this case, radiation therapy, across their patient population. By analyzing which patients receive the highest total billing amount for radiation therapy, managers can identify clinics or departments that may require additional resources, support, or specialized personnel to accommodate the demand effectively. The query organizes the results in descending order based on the total billing amount for radiation therapy, making it straightforward for managers to prioritize clinics or departments with the highest utilization of this treatment modality. This prioritization enables managers to allocate resources strategically, ensuring that clinics offering radiation therapy have the necessary capacity and support to meet patient needs efficiently.
 
-*Query 2:*
+**Query 2:**
 
 This SQL query retrieves information about patients including their first name, last name, admission date, discharge date, and the calculated length of stay in days. It joins the Patients and MedicalRecords tables, calculates the length of stay using the DATEDIFF function, and filters the results to include only patients with a length of stay greater than 333 days. Finally, it orders the results by the length of stay in ascending order.
 
@@ -62,7 +62,7 @@ This SQL query retrieves information about patients including their first name, 
 
 Query 2 provides healthcare clinic managers with insight into the length of stay for patients across different departments or clinics. By examining the patients with the longest stays, particularly those exceeding 333 days, managers can identify areas where patients may require extended care or where operational inefficiencies may be impacting patient throughput. Organizing the results in ascending order by length of stay allows managers to easily pinpoint clinics or departments with longer-than-average patient stays, enabling targeted interventions to improve patient flow and optimize resource allocation for better patient care delivery. This analysis empowers managers to make informed decisions to enhance operational efficiency and patient satisfaction within their healthcare facilities.
 
-*Query 3:*
+**Query 3:**
 
 Query 3 displays the medical employee's first and last name, the shift date and time as well as the department name they will be working in. This is done by returning information from the MedicalEmployees table and then joining Shifts with the employee's staff ID. The Departments and Shifts tables are then joined to return the department name. The query is then ordered by shift date in ascending order.
 
@@ -70,7 +70,7 @@ Query 3 displays the medical employee's first and last name, the shift date and 
 
 This query is vital for the organization of the Healthcare Center and its employees. This ensures that each department has an adequate amount of staff at each shift date and time which can also make creating work schedules more efficient. In the case that someone doesn't show up for their shift, managers can easily check to see who isn't there and if they need someone to pick up the shift it could be changed in the system and updated to return the name of who is working instead and remove the other employee from that shift time. 
 
-*Query 4:*
+**Query 4:**
 
 Query 4 displays item ID, item name, and the quantity as well as expiration date. These values are selected from the Inventory table. A where clause is then used to return the values only if the quantity is less than 30. The results are then ordered by expiration date in ascending order. 
 
@@ -78,17 +78,17 @@ Query 4 displays item ID, item name, and the quantity as well as expiration date
 
 This query aids in managing inventory by returning information on quantity and expiration date. In this example 30 was used as a threshold so if the inventory count is below this for a certain item managers know that it's time to order more. This prevents inventory shortages and helps with keeping inventory stocked. Expiration date is very important to keep up with as well because items should not be used after their expiration date as it could lead to item malfunction which is a form of malpractice. By keeping up with expiration dates, items can be used before they expire or disposed of when they become expired. 
 
-*Query 5:*
+**Query 5:**
 
-*Query 6:*
+**Query 6:**
 
-*Query 7:*
+**Query 7:**
 
-*Query 8:*
+**Query 8:**
 
-*Query 9:*
+**Query 9:**
 
-*Query 10:*
+**Query 10:**
 
 ## Database Information:
 Name of Database: al_Group_21482_G6
