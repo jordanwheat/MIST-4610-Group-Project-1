@@ -5,9 +5,9 @@
 
 ## Team Members:
 
-Matthew Zimmerman [Mattyyzz](https://github.com/Mattyyzz)
-
 Jordan Wheat 
+
+Matthew Zimmerman [Mattyyzz](https://github.com/Mattyyzz)
 
 Joe Song
 
